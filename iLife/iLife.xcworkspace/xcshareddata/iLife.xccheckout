@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>539B8356-2CB2-4073-9691-A49867B72BCE</string>
+	<string>C1F2A083-5482-46FE-A825-B501801374C1</string>
 	<key>IDESourceControlProjectName</key>
 	<string>iLife</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>D7362CD1-EED9-4B46-AC86-BD72AEC6C0F0</key>
-		<string>https://github.com/zhzenghui/iLife.git</string>
+		<key>8D121931-A749-4409-94A5-39BB0DAC4C96</key>
+		<string>https://github.com/zhzenghui/Life---.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iLife.xcworkspace</string>
+	<string>iLife/iLife.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D7362CD1-EED9-4B46-AC86-BD72AEC6C0F0</key>
-		<string>..</string>
+		<key>8D121931-A749-4409-94A5-39BB0DAC4C96</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/zhzenghui/iLife.git</string>
+	<string>https://github.com/zhzenghui/Life---.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D7362CD1-EED9-4B46-AC86-BD72AEC6C0F0</string>
+	<string>8D121931-A749-4409-94A5-39BB0DAC4C96</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>D7362CD1-EED9-4B46-AC86-BD72AEC6C0F0</string>
+			<string>8D121931-A749-4409-94A5-39BB0DAC4C96</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iLife</string>
+			<string>Life---</string>
 		</dict>
 	</array>
 </dict>

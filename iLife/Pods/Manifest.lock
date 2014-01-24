@@ -15,6 +15,15 @@ PODS:
   - AFNetworking/Reachability (2.0.3)
   - AFNetworking/Security (2.0.3)
   - AFNetworking/Serialization (2.0.3)
+  - CocoaAsyncSocket (7.3.3)
+  - CocoaHTTPServer (2.3):
+    - CocoaAsyncSocket
+    - CocoaLumberjack
+  - CocoaLumberjack (1.8.0):
+    - CocoaLumberjack/Extensions
+  - CocoaLumberjack/Core (1.8.0)
+  - CocoaLumberjack/Extensions (1.8.0):
+    - CocoaLumberjack/Core
   - FMDB (2.1):
     - FMDB/standard
   - FMDB/common (2.1)
@@ -23,10 +32,14 @@ PODS:
 
 DEPENDENCIES:
   - AFNetworking (~> 2.0)
+  - CocoaHTTPServer
   - FMDB
 
 SPEC CHECKSUMS:
   AFNetworking: e499052cbf3d743e9bb727bb37adb9dc2547ba15
+  CocoaAsyncSocket: 50a73b79fb77f0dbb57cdc5c247c8f19e9cb3b33
+  CocoaHTTPServer: 7c2fce6617f7fda0e3f4fc34f96e562caa7c7bd8
+  CocoaLumberjack: 6ed94046d2ca7fde03a73b3d01b8cfc56574b314
   FMDB: 3fd5aaf632ca4ed39e3f101e0398504e6d5b0918
 
-COCOAPODS: 0.25.0
+COCOAPODS: 0.28.0

@@ -8,8 +8,12 @@
 
 #import <Cocoa/Cocoa.h>
 
+@class HTTPServer;
 @interface ZHAppDelegate : NSObject <NSApplicationDelegate>
+{
+    HTTPServer* httpServer;
 
+}
 @property (assign) IBOutlet NSWindow *window;
 
 @end
